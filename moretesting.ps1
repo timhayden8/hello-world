@@ -1,0 +1,1 @@
+write-host "testing this github from VSC so i can learn"
